@@ -25,9 +25,9 @@ Django REST-Api for Event Management
 ---
 ## Документація
 Документація доступна по (після запуску проекта):
-- [Swagger UI](api/schema/swagger-ui/)
-- [Redoc](api/schema/redoc/)
-- [Завантажити файл документації](api/schema/)
+- [Swagger UI](http://127.0.0.1:8000/api/schema/swagger-ui/)
+- [Redoc](http://127.0.0.1:8000/api/schema/redoc/)
+- [Завантажити файл документації](http://127.0.0.1:8000/api/schema/)
 ---
 ## PS
 - Щоб війти в акаунт користувача необхідно робити запити с Basic Auth (наприклад в Postman)
