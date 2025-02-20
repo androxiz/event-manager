@@ -5,7 +5,7 @@ Django REST-Api for Event Management
 ## Як запустити
 1. Клонуйте репозиторій та перейдіть до директорії проекта:
    ```sh
-   git clone https://github.com/androxiz/event-manager/
+   git clone https://github.com/androxiz/event-manager.git
    cd event-manager
 2. Створіть файл .env і вкажіть в ньому змінні оточення.
     ```
